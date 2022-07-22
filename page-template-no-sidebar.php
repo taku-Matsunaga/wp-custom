@@ -1,4 +1,7 @@
 <?php
+/* 
+Template Name: サイドバー無し
+ */
 
 /**
  * The template for displaying all pages
@@ -35,5 +38,4 @@ get_header();
 </main><!-- #main -->
 
 <?php
-get_sidebar();
 get_footer();
